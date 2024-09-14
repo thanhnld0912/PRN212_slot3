@@ -1,0 +1,14 @@
+D:\FPT\CN5\PRN212\Code\TupleHomework\TupleHomework\bin\Debug\net8.0\TupleHomework.exe
+D:\FPT\CN5\PRN212\Code\TupleHomework\TupleHomework\bin\Debug\net8.0\TupleHomework.deps.json
+D:\FPT\CN5\PRN212\Code\TupleHomework\TupleHomework\bin\Debug\net8.0\TupleHomework.runtimeconfig.json
+D:\FPT\CN5\PRN212\Code\TupleHomework\TupleHomework\bin\Debug\net8.0\TupleHomework.dll
+D:\FPT\CN5\PRN212\Code\TupleHomework\TupleHomework\bin\Debug\net8.0\TupleHomework.pdb
+D:\FPT\CN5\PRN212\Code\TupleHomework\TupleHomework\obj\Debug\net8.0\TupleHomework.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPT\CN5\PRN212\Code\TupleHomework\TupleHomework\obj\Debug\net8.0\TupleHomework.AssemblyInfoInputs.cache
+D:\FPT\CN5\PRN212\Code\TupleHomework\TupleHomework\obj\Debug\net8.0\TupleHomework.AssemblyInfo.cs
+D:\FPT\CN5\PRN212\Code\TupleHomework\TupleHomework\obj\Debug\net8.0\TupleHomework.csproj.CoreCompileInputs.cache
+D:\FPT\CN5\PRN212\Code\TupleHomework\TupleHomework\obj\Debug\net8.0\TupleHomework.dll
+D:\FPT\CN5\PRN212\Code\TupleHomework\TupleHomework\obj\Debug\net8.0\refint\TupleHomework.dll
+D:\FPT\CN5\PRN212\Code\TupleHomework\TupleHomework\obj\Debug\net8.0\TupleHomework.pdb
+D:\FPT\CN5\PRN212\Code\TupleHomework\TupleHomework\obj\Debug\net8.0\TupleHomework.genruntimeconfig.cache
+D:\FPT\CN5\PRN212\Code\TupleHomework\TupleHomework\obj\Debug\net8.0\ref\TupleHomework.dll
